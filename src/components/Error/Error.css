@@ -1,0 +1,10 @@
+.Alert {
+    padding: 20px;
+    background-color: #f44336;
+    color: white;
+}
+  
+.Alert:hover {
+    background-color: black;
+    color: #f44336;
+}
